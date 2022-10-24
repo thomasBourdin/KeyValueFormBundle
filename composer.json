@@ -1,10 +1,10 @@
 {
-    "name": "thomasBourdin/key-value-form-bundle",
+    "name": "thomasbourdin/key-value-form-bundle",
     "license": "MIT",
     "type": "bundle",
     "description": "A form type for managing key-value pairs",
     "autoload": {
-        "psr-4": { "thomasBourdin\\Bundle\\KeyValueFormBundle\\": "" }
+        "psr-4": { "thomasbourdin\\Bundle\\KeyValueFormBundle\\": "" }
     },
     "require": {
         "php": ">=5.3.3",
